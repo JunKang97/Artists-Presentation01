@@ -1,0 +1,58 @@
+
+html
+{
+    min-height:100%;
+}
+
+body
+{
+    background-image: url(../images/galaxy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    background: black;
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+h3
+{
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+h4
+{
+    text-align: center;
+    color: white; 
+    background: black;
+}
+
+.artist01-img
+{
+    display: block;
+    margin: 20px auto;
+    width:25%;
+}
+
+.artist02-img
+{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}

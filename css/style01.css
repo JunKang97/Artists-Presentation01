@@ -1,0 +1,44 @@
+html
+{
+    min-height: 100%;
+}
+
+body
+{
+    background-image: url(../images/BGforHarm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    background: white;
+    border: 3.5px solid black;
+    font-size: 50px;
+}
+
+h2
+{
+    background: white;
+    border: 3.5px solid black;
+}
+
+h3
+{
+    background: white;
+    border: 3.5px solid black;
+}
+
+.Harm01-img
+{
+    display: block;
+    margin: 0px;
+    width: 50%;
+    border: 3.5px solid black;
+}
+
+p
+{
+    background: white;
+    border: 3.5px solid black;
+}

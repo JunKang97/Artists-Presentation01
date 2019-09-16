@@ -1,0 +1,44 @@
+html
+{
+    min-height:100%;
+}
+
+body
+{
+    background-image: url(../images/BGforJoe.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    background: #70fac1;
+    border: 3.5px solid #ceffab;
+    font-size: 50px;
+}
+
+h2
+{
+    background: #70fac1;
+    border: 3.5px solid #ceffab;
+}
+
+h3
+{
+    background: #70fac1;
+    border: 3.5px solid #ceffab;
+}
+
+p
+{
+    background: #70fac1;
+    border: 3.5px solid #ceffab;
+}
+
+.Joe01-img
+{
+    display: block;
+    margin: 0px;
+    width: 50%;
+    border: 3.5px solid #ceffab;
+}
